@@ -726,6 +726,7 @@ a:hover {
     font-weight: bolder;
     color: black;
     background-color: #a3cc00;
+    border: 1px solid #84bf3f;
     border-radius: 2px;
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
     padding: 6px 12px;
@@ -738,7 +739,6 @@ a:hover {
     color: #fff;
     border: 1px solid #84bf3f;
     background-color: #7eb73d;
-    box-shadow: 0;
 }
 
 ul {
@@ -835,6 +835,7 @@ dt {
 
 #header {
     z-index: 100;
+    background: #691b9a9c;
     position: fixed;
     left: 0;
     top: 0px;
@@ -993,5 +994,4 @@ p {
 .blog-btn:hover {
     color: #fff;
     background-color: #c6c600;
-    box-shadow: 0;
 }
