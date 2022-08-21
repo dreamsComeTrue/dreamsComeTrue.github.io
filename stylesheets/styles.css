@@ -736,9 +736,8 @@ a:hover {
 }
 
 .btn:hover {
-    color: #fff;
-    border: 1px solid #84bf3f;
-    background-color: #7eb73d;
+    color: white;
+    background-color: rgba(255, 255, 255, 0.18);    
 }
 
 ul {
@@ -887,6 +886,10 @@ section #title h1 {
     margin-bottom: 0;
 }
 
+section #title h2 {
+    text-align: center;
+}
+
 section #title h5 {
     color: rgba(255, 255, 255, 0.6);
     text-align: center;
@@ -993,6 +996,6 @@ p {
 }
 
 .blog-btn:hover {
-    color: #fff;
-    background-color: #c6c600;
+    color: white;
+    background-color: rgba(255, 255, 255, 0.18);
 }
